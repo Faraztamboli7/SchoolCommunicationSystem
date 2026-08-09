@@ -823,7 +823,7 @@ Potential improvements include:
 
 ---
 
-# 📌 Important Notes for Evaluators
+# 📌 Important Notes 
 
 This project is configured as a **local full-stack application**.
 
