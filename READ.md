@@ -67,29 +67,6 @@ The system provides administrators with a centralized platform to create, manage
 
 ---
 
-## 🏗️ Project Architecture
-
-```text
-SchoolCommunicationSystem
-│
-├── frontend
-│   ├── src
-│   │   ├── components
-│   │   ├── pages
-│   │   ├── services
-│   │   └── App.jsx
-│   └── package.json
-│
-├── backend
-│   ├── controllers
-│   ├── routes
-│   ├── middleware
-│   ├── db
-│   ├── server.js
-│   └── package.json
-│
-└── README.md
-
 ## 🚀 How to Run the Project
 
 ### Prerequisites
@@ -130,3 +107,28 @@ Make sure PostgreSQL is running before starting the backend.
 ### 5. Application
 Open the frontend URL in your browser:
 http://localhost:5173
+
+## 🏗️ Project Architecture
+
+```text
+SchoolCommunicationSystem
+│
+├── frontend
+│   ├── src
+│   │   ├── components
+│   │   ├── pages
+│   │   ├── services
+│   │   └── App.jsx
+│   └── package.json
+│
+├── backend
+│   ├── controllers
+│   ├── routes
+│   ├── middleware
+│   ├── db
+│   ├── server.js
+│   └── package.json
+│
+└── README.md
+
+
