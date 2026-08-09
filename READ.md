@@ -90,3 +90,43 @@ SchoolCommunicationSystem
 │
 └── README.md
 
+## 🚀 How to Run the Project
+
+### Prerequisites
+- Node.js
+- npm
+- PostgreSQL
+- Git
+
+### 1. Clone the Repository
+git clone https://github.com/Faraztamboli7/SchoolCommunicationSystem.git
+cd SchoolCommunicationSystem
+
+### 2. Backend Setup
+cd backend
+npm install
+
+# Configure PostgreSQL database
+# Update database credentials in the backend configuration
+
+npm start
+
+Backend will run on:
+http://localhost:5000
+
+### 3. Frontend Setup
+Open a new terminal:
+
+cd frontend
+npm install
+npm run dev
+
+Frontend will run on:
+http://localhost:5173
+
+### 4. Database
+Make sure PostgreSQL is running before starting the backend.
+
+### 5. Application
+Open the frontend URL in your browser:
+http://localhost:5173
